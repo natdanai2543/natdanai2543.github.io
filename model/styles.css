@@ -103,3 +103,12 @@ model-viewer[ar-status="session-started"] > #ar-prompt {
 model-viewer > #ar-prompt > img {
   animation: circle 4s linear infinite;
 }
+
+span.slogan{
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 15px;
+  color: rgba(51, 51,51, 1);
+  margin-bottom: 35px;
+}
