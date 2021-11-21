@@ -52,6 +52,7 @@
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">React and Node API Duo</h5>
+          ทำงานคู่กับ พรรณนิภา ผลเจริญ ทำในส่วนของ Frontend
          <a href="#" class="btn btn-primary">CLICK HERE!</a>
         <h5 class="card-title">______________________________________________________</h5>
   </div>
