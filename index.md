@@ -27,7 +27,7 @@
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">React Todo Application</h5>
-         <a href="todo" class="btn btn-primary">CLICK HERE!</a>
+         <a href="react-todo" class="btn btn-primary">CLICK HERE!</a>
         <h5 class="card-title">______________________________________________________</h5>
   </div>
 </div>
