@@ -36,7 +36,7 @@
  <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">3D Training</h5>
-         <a href="#" class="btn btn-primary">CLICK HERE!</a>
+         <a href="model/index.html" class="btn btn-primary">CLICK HERE!</a>
         <h5 class="card-title">______________________________________________________</h5>
   </div>
 </div>
