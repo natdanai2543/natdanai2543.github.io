@@ -11,7 +11,7 @@
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">TODO application on JS with DOM</h5>
-         <a href="TODO-App/index.html" class="btn btn-primary">CLICK HERE!</a>
+         <a href="todo.html" class="btn btn-primary">CLICK HERE!</a>
         <h5 class="card-title">______________________________________________________</h5>
   </div>
 </div>
