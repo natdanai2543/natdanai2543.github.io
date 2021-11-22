@@ -54,7 +54,7 @@
     <h5 class="card-title">React and Node API Duo</h5>
           ทำงานคู่กับ พรรณนิภา ผลเจริญ
           "ทำในส่วนของ Frontend"
-          <a href="nodejs" class="btn btn-primary">CLICK HERE!</a>
+          <a href="https://github.com/natdanai2543/natdanai2543.github.io/tree/main/nodejs" class="btn btn-primary">CLICK HERE!</a>
         <h5 class="card-title">______________________________________________________</h5>
   </div>
 </div>
